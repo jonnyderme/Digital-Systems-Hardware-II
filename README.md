@@ -11,8 +11,6 @@ Electronics and Computers Department
 
 ---
 
----
-
 ## 📚 Table of Contents
 - [Overview](#overview)
 - [Objectives](#objectives)
