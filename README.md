@@ -1,5 +1,5 @@
 # 💻 Digital-Systems-Hardware-II
-# ⚙️ Digital Systems Design – Floating Point Multiplier (2024)
+### ⚙️ Digital Systems Design – Floating Point Multiplier (2024)
 Assignment for the "Digital-Systems-Hardware-II" Course  
 Faculty of Engineering, AUTh  
 School of Electrical and Computer Engineering  
